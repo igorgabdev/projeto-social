@@ -50,5 +50,11 @@ section#icons{
     
 }
 
+#icons>a:hover{
+    filter: drop-shadow(1px 1px 10px rgb(255, 0, 64));
+    transition: 0.3s;
+    
+}
+
 
 
