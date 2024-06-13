@@ -46,6 +46,8 @@ section#icons > a > img{
 }
 section#icons{
     text-align: right;
+    margin-right: 15px;
+    
 }
 
 
