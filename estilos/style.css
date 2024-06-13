@@ -35,9 +35,18 @@ iframe#tela{
     left: 49.6%;
     top: 50%;
     transform: translate(-50%,-50%);
-    
-    
-    
-    
-    
+     
 }
+
+section#icons > a > img{
+    border-radius: 100%;
+    height: 50px; 
+    text-align: right;
+    margin: 10px;
+}
+section#icons{
+    text-align: right;
+}
+
+
+
